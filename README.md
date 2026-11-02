@@ -4,7 +4,7 @@ A luxury car dealership web application. Customers can browse vehicles and send 
 
 > **Note:** This is a demo / portfolio project. All company details (address, phone, email) are sample data.
 
-🔗 **Live demo:** https://anuththara599.github.io/elite-autos/
+🔗 **Live demo:** https://elitemotors.zociallab.com/
 
 ---
 
